@@ -48,7 +48,7 @@ TokenPay
     └── src ---> (项目核心目录)
 ```
 ## 现有插件
-- [独角数卡插件](Plugs/dujiaoka/) | [独角数卡](https://github.com/assimon/dujiaoka) ![Github stars](https://img.shields.io/github/stars/assimon/dujiaoka?style=social)
+- [Alleo发卡插件](Plugs/dujiaoka/) | [Alleo发卡](https://github.com/assimon/dujiaoka) ![Github stars](https://img.shields.io/github/stars/assimon/dujiaoka?style=social)
 - [v2board插件](Plugs/v2board/) | [v2board](https://github.com/v2board/v2board) ![Github stars](https://img.shields.io/github/stars/v2board/v2board?style=social)
 - [card-system插件](Plugs/card-system/) | [card-system](https://github.com/Tai7sy/card-system) ![Github stars](https://img.shields.io/github/stars/Tai7sy/card-system?style=social)
 - [彩虹易支付插件](Plugs/epay/) | [彩虹易支付官网](https://pay.cccyun.cc)
@@ -61,7 +61,7 @@ TokenPay
 ## 教程：
 - 宝塔运行`TokenPay`教程👉🏻[宝塔运行TokenPay](Wiki/BT_RUN.md)
 - 手动运行`TokenPay`教程👉🏻[手动运行TokenPay](Wiki/manual_RUN.md)
-- 小白也可查看用户贡献的搭建视频：[TokenPay详细搭建教程 对接易支付和独角数卡](https://www.youtube.com/watch?v=w75mTOAnLDw)
+- 小白也可查看用户贡献的搭建视频：[TokenPay详细搭建教程 对接易支付和Alleo发卡](https://www.youtube.com/watch?v=w75mTOAnLDw)
 
 
 ## 加入交流/意见反馈
